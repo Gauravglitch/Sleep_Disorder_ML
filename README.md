@@ -19,11 +19,4 @@ Moreover, we leverage the principles of Machine Learning to build predictive mod
 - Machine Learning algorithms for classification and regression
 - Model evaluation and performance metrics
 - Predictive modeling and forecasting
-2. ## Contributing
-
-We welcome contributions from the open-source community! If you would like to contribute to this project, please follow the guidelines outlined in the CONTRIBUTING.md file.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
